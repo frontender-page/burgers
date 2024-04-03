@@ -37,7 +37,7 @@ body {
     border: 0;
     cursor: pointer;
     outline: none;
-    color: #191411;
+    color: #FFFFFF;
     font-size: 18px;
 }
 
@@ -264,7 +264,7 @@ body {
     width: 182px;
     height: 62px;
     margin-top: 25px;
-
+    color: #FFFFFF;
 }
 
 .button.products-button span:first-child {
